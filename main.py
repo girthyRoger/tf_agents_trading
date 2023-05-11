@@ -1,4 +1,4 @@
-from trading_env import Action, TradingEnv
+from trading_envs import Action, TradingEnv
 from tf_agents.environments import utils
 from tf_agents.utils import common
 from tf_agents.environments import tf_py_environment
